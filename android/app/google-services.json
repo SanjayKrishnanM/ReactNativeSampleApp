@@ -1,0 +1,447 @@
+{
+  "project_info": {
+    "project_number": "746441323391",
+    "firebase_url": "https://hotlinetestapp.firebaseio.com",
+    "project_id": "hotlinetestapp",
+    "storage_bucket": "hotlinetestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:1736359c951b3ed35c204a",
+        "android_client_info": {
+          "package_name": "android.app.src.main.java.com.fc.sample.flutter_dependency_issue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:c323ba466a6c76b7",
+        "android_client_info": {
+          "package_name": "com.dieam.reactnativepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:fb39557252ebab97",
+        "android_client_info": {
+          "package_name": "com.example.hotlineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-fl05os7q6ac6ghijbjlm8i8koen5sb9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotlineapp",
+            "certificate_hash": "685b78d81f70abdf1d49396003432b45b7bf3186"
+          }
+        },
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:042827b374fc72a55c204a",
+        "android_client_info": {
+          "package_name": "com.example.sample_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:e08a1daf893ae6f15c204a",
+        "android_client_info": {
+          "package_name": "com.fc.sample.flutter_dependency_issue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:c8d7a0b16fcc9537",
+        "android_client_info": {
+          "package_name": "com.freshchat.freshchatpushnotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-svnu8ian398kl5jp21fuf1uj7n3uiigb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshchat.freshchatpushnotificationsample",
+            "certificate_hash": "685b78d81f70abdf1d49396003432b45b7bf3186"
+          }
+        },
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-h5fvhn7m6ev5dj9lm4npa0c93mkmfq6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.database",
+            "certificate_hash": "685b78d81f70abdf1d49396003432b45b7bf3186"
+          }
+        },
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:a806387762327d53",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-dth21d7avdl80mvbc0lgtgjjh8kud2md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.firebasestorage",
+            "certificate_hash": "685b78d81f70abdf1d49396003432b45b7bf3186"
+          }
+        },
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:b73fdeb9817315aa5c204a",
+        "android_client_info": {
+          "package_name": "com.nativecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:81bbe8ff5aa669df",
+        "android_client_info": {
+          "package_name": "com.samplefreshchat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-sm918s2kd9hu4hehpojoni4ulunavvpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samplefreshchat.android",
+            "certificate_hash": "66a354c29742b65393eed91fb86a15e7cafe5ed8"
+          }
+        },
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746441323391:android:9fd37a677c2bb46a5c204a",
+        "android_client_info": {
+          "package_name": "example.android.app.src.main.java.com.freshchat.consumer.sdk.flutter_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8T8RL6uaLsC_X9n5esDri6RVwd7BWZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746441323391-952phknfsbgbv44o0v9gi13sbtc8pdko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746441323391-o1ruqj8nvfir11lg596bsh17eo4rk3tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freshchat.consumer.sdk.flutter.freshchatSdkExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
